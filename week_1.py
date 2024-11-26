@@ -1,41 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # program_1 - arithmetic operations
-
-# In[1]:
-
-
+# # program_1 - arithmetic operation
 import numpy as np
-
-
-# In[2]:
-
-
 arr=np.array([1,2,3,4,5])
-
-
-# In[3]:
-
-
 print("array:",arr)
-
-
-# In[4]:
-
-
 print("add 5:",arr+5)
-
-
-# In[5]:
-
-
 print("multiply by 2:",arr*2)
-
-
 # # program_2 - statistical operations
-
-# In[6]:
 
 
 import numpy as np
@@ -115,7 +84,6 @@ print("determinant",determinant)
 print("inverse",inverse)
 
 
-# In[ ]:
 
 
 
